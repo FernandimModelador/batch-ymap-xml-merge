@@ -17,5 +17,8 @@ If you want to compile the script yourself, follow these steps:
 1. Download and install [Node.js](https://nodejs.org/).
 2. Extract the contents of this repository's ZIP file.
 3. Open a command prompt or terminal and navigate to the extracted folder.
-4. Run the following command to compile the script:
+4. Run the following command to compile the script: pkg package.json
+5. After compilation, you can run the resulting executable or the one of your choice.
+
+Feel free to contribute or report issues if you encounter any problems with the script.
 
